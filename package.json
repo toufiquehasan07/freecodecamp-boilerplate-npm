@@ -3,6 +3,7 @@
 	"author": "Toufique Hasan",
 	"description": "Freecodecamp boilerplate nam project",
 	"keywords": ["freecodecamp", "boilerplate", "npm"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
